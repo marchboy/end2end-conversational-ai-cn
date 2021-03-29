@@ -1,1 +1,36 @@
 聊天记录2021-03-23 11:37:03.989553:
+聊天记录2021-03-23 11:54:47.543326:
+user:栋哥为什么不跟粉丝互动互动呀?
+chatbot:你是谁
+user:喔，我也只是问问，没有抱怨喔，不要误会，就算栋哥没有出来互动我也是喜欢的，就喜欢这一个男艺人
+chatbot:好吧，我理解错了，你们是粉丝会不会喜欢上我们组合的
+user:
+chatbot:好吧好吧，我也是喜欢他们，不过没见过他们
+user:
+chatbot:嗯嗯，我们可是真爱粉呢，一直喜欢他们，只是不知道你
+user:
+chatbot:嗯嗯
+user:帅气
+chatbot:必须的
+user:休息了，玩的也累
+chatbot:哈哈好好休息吧
+user:你是谁
+chatbot:你可真漂亮
+user:我帅气
+chatbot:你是哪个
+user:你进军哥哥
+chatbot:你是哪个
+user:擦，我是你进军哥哥
+chatbot:好久没聊天了，一直在刷微博
+user:好开心
+chatbot:嗯嗯
+user:你在哪里
+chatbot:我在上海啊
+user:我也在上海
+chatbot:那你什么时候去上海啊？
+user:已经在上海呢
+chatbot:哦哦！
+user:你哦啥？
+chatbot:我们是两年前同校的学生会
+user:exit
+chatbot:我也是济南的

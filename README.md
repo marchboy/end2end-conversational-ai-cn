@@ -1,5 +1,12 @@
 # GPT2 for Chinese chitchat
 
+
+## UPDATED @202103
+按原作者提供的[50W中文闲聊语料](https://drive.google.com/file/d/1nEuew_KNpTMbyy7BO4c8bXMXN351RCPp/view?usp=sharing)进行训练
+
+
+
+
 ## UPDATE 2020.01.09
 添加50w闲聊语料与预训练模型的GoogleDrive的下载地址
 
